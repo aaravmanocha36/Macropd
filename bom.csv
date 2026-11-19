@@ -1,7 +1,0 @@
-Part,Qty,PCB ref,Buy,Price (USD),Link,Notes
-Macropad PCB,1,,5-board batch,,https://cart.jlcpcb.com/,Upload Macropad PCB.zip from this folder for a bare 2-layer board. One board per build. Get a quote for the 228.6 x 106.7 mm board. Final cost depends on the batch and shipping.
-Raspberry Pi Pico H,1,A1,1 board,5.00,https://robu.in/product/raspberry-pi-pico-with-headers/,RP2040 Pico with headers already fitted. Use your Pico if you have one.
-5-pin MX switches,8,SW1-SW8,1 pack of 10,1.93,https://neomacro.in/products/gateron-ef-cedar,Gateron EF Cedar linear. One pack of 10 leaves two spares.
-1u MX keycaps,8,,1 pack of 10,1.82,https://neomacro.in/products/dsa-blank-keycaps,Pick the standard 1U pack of 10.
-Micro-USB data cable,1,,1 cable,1.06,https://e2u.in/products/official-raspberry-pi-usb-a-male-to-micro-usb-male-cable-e2u-raspberry-pi-india,"USB-A to Micro-B. For a USB-C-only computer, use a USB-C to Micro-B data cable or a USB-A adapter."
-"2.54 mm male header strip, 1x40",1,A1,1 strip (optional),0.09,https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip,Only for a Pico without headers. Split the strip into two rows of 20.
