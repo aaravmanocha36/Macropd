@@ -1,0 +1,7 @@
+Part,Qty,PCB ref,Link,Notes
+Macropad PCB,1,,https://cart.jlcpcb.com/,Upload Macropad PCB.zip from this folder for a bare 2-layer board. One board per build.
+Raspberry Pi Pico H,1,A1,https://robu.in/product/raspberry-pi-pico-with-headers/,RP2040 Pico with headers already fitted. Use your Pico if you have one.
+5-pin MX switches,8,SW1-SW8,https://neomacro.in/products/gateron-ef-cedar,Gateron EF Cedar linear. One pack of 10 leaves two spares.
+1u MX keycaps,8,,https://keyora.store/products/dsa-blank-keycaps-1u-1u-homing-1-5u-pack-of-10,Pick the standard 1U pack of 10.
+Micro-USB data cable,1,,https://www.raspberrypi.com/products/usb-a-male-to-micro-usb-male-cable/,"USB-A to Micro-B. For a USB-C-only computer, use a USB-C to Micro-B data cable or a USB-A adapter."
+"2.54 mm male header strip, 1x40",1,A1,https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip,Only for a Pico without headers. Split the strip into two rows of 20.
